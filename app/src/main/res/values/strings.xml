@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="title">Title</string>
+    <string name="save">Save</string>
+
+    <string name="note">Note</string>
+    <string name="empty_click_button_to_create">Empty. Click the + button to create</string>
+</resources>
